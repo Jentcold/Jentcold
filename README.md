@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a discord bot
+- 🔭 I’m currently working on a translator app
 - 🌱 I’m currently learning computer science
 - 🤔 I’m looking for help with discord.py module
 - 💬 Ask me about anything really
